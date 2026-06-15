@@ -172,7 +172,7 @@ My long-term goal is to build an **intelligent platform** that integrates multi-
 - 🥇 **First-class Scholarship**, Fudan University (2023, 2024)
 - 🥈 **Outstanding Master's Thesis**, Hunan Province
 - 🎓 **Outstanding Graduate**, Central South University
-- 🏆 **National Computer Design Competition**: Central China 1st Prize / National 3rd Prize
+- 🏆 **National Computer Design Competition**: 1st Prize
 
 ---
 
@@ -218,8 +218,6 @@ I am looking for **2–3 highly motivated M.S. students** (starting 2026/2027) a
 </td>
 <td width="30%" align="center">
 
-<img src="https://raw.githubusercontent.com/wangjinxian/wangjinxian/main/assets/lab-logo.png" width="150" alt="Lab Logo" />
-
 **📧 Contact Me**
 
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wangjx22@m.fudan.edu.cn)
@@ -233,19 +231,6 @@ I am looking for **2–3 highly motivated M.S. students** (starting 2026/2027) a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wangjinxian&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangjinxian&layout=compact&theme=vue&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=wangjinxian&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
----
 
 <div align="center">
 
