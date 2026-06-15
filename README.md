@@ -1,5 +1,3 @@
-# Homepage
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Jinxian+Wang+%F0%9F%91%8B;AI+for+Drug+Discovery+%F0%9F%A7%AC%F0%9F%A4%96;Computational+Biology+Researcher" />
