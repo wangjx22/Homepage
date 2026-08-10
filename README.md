@@ -20,7 +20,7 @@
 
 I am an **Associate Research Professor (特聘副研究员)** at **[China Pharmaceutical University](https://www.cpu.edu.cn/)** (中国药科大学), working at the intersection of **Artificial Intelligence** and **Drug Discovery**. My research focuses on developing cutting-edge AI/ML methods for computational biology, with particular emphasis on molecular representation learning, antibody structure prediction, and multi-modal drug-target interaction modeling.
 
-> 🎯 **I am actively recruiting motivated M.S. students (2026/2027 intake)!**  
+> 🎯 **I am actively recruiting 1–2 motivated M.S. students (2026/2027 intake)!**<br>
 > If you are passionate about AI-driven drug discovery, deep learning, and computational biology — feel free to reach out!
 
 ---
@@ -163,6 +163,12 @@ My long-term goal is to build an **intelligent platform** that integrates multi-
 
 ---
 
+## 🤝 Academic Service
+
+- **Corresponding Member**, CCF Technical Committee on Bioinformatics (中国计算机学会生物信息学专业委员会)
+
+---
+
 ## 🏆 Honors & Awards
 
 - 🏅 **Hunan Provincial Natural Science Award** Nomination (2024, Rank 6th)
@@ -193,7 +199,7 @@ My long-term goal is to build an **intelligent platform** that integrates multi-
 
 ### 🎓 Master's Student Recruitment
 
-I am looking for **2–3 highly motivated M.S. students** (starting 2026/2027) at China Pharmaceutical University.
+I am recruiting **1–2 self-motivated M.S. students** with a solid computer-science background at China Pharmaceutical University. I welcome students who are genuinely interested in **AI-driven drug discovery (AIDD)** and ready to grow through rigorous, hands-on research.
 
 **Research Directions:**
 - 🤖 AI Large Models for Drug Discovery
@@ -203,15 +209,19 @@ I am looking for **2–3 highly motivated M.S. students** (starting 2026/2027) a
 
 **What you will gain:**
 - Hands-on experience with state-of-the-art AI/ML methods
+- Close, step-by-step mentorship in research: from problem formulation and literature reading to implementation, experimentation, and scientific writing
 - Mentorship toward high-impact publications
 - Collaboration with top labs (Fudan, BioMap, Lingang Lab)
 - Strong computational resources (NVIDIA GPUs)
 - Competitive stipend support
 
 **Preferred Background:**
-- CS, AI, Bioinformatics, or related fields
-- Strong programming skills (Python, PyTorch)
-- Curiosity about drug discovery & life sciences
+- Computer science, AI, bioinformatics, or a related field
+- Programming foundation in Python; familiarity with PyTorch is a plus
+- Strong initiative, persistence, and willingness to take ownership of research questions
+- Genuine interest in AIDD and the life sciences
+
+To apply, please email me with your CV, academic background, and a brief note on the AIDD research questions that interest you.
 
 </td>
 <td width="30%" align="center">
@@ -240,5 +250,4 @@ I am looking for **2–3 highly motivated M.S. students** (starting 2026/2027) a
 
 ---
 
-<sub>Last updated: 2026-06-15 | © 2026 Jinxian Wang</sub>
-
+<sub>Last updated: 2026-08-10 | © 2026 Jinxian Wang</sub>
