@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-wangjinxian-181717?style=flat-square&logo=github)](https://github.com/wangjinxian)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0000-0000-0000)
-[![Email](https://img.shields.io/badge/Email-wangjx22@m.fudan.edu.cn-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wangjx22@m.fudan.edu.cn)
+[![Email](https://img.shields.io/badge/Email-jxwang@cpu.edu.cn-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jxwang@cpu.edu.cn)
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wangjinxian.wangjinxian&style=flat-square&color=blue)](https://github.com/wangjinxian)
 
 </div>
@@ -228,7 +228,7 @@ To apply, please email me with your CV, academic background, and a brief note on
 
 **📧 Contact Me**
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wangjx22@m.fudan.edu.cn)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jxwang@cpu.edu.cn)
 
 📍 Nanjing, Jiangsu  
 🏫 China Pharmaceutical University
